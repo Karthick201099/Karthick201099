@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Karthick D</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB | AWS EC2</h3>
 
 <p align="center">
